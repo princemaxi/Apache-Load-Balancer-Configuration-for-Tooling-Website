@@ -105,7 +105,7 @@ A **Load Balancer is not just a tool, but a core component of resilient system d
 - **Scalable** (ready for growth)  
 - **Efficient** (optimized for performance)  
 
-By deploying **Apache as a Load Balancer**, we’ve transformed a collection of web servers into a **robust, production-ready architecture** capable of handling real-world traffic demands.  
+By deploying **Apache as a Load Balancer**, we’ve transformed a collection of web servers which we deployed in our earlier project [DevOps Tooling Website Solution](https://github.com/princemaxi/DevOps-Tooling-Website) into a **robust, production-ready architecture** capable of handling real-world traffic demands.  
 
 ---
 
